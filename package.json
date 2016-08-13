@@ -1,0 +1,14 @@
+{
+  "name": "postcss-bndr",
+  "version": "0.1.0",
+  "description": "Postcss plugin which adds the specified string to the end of the CSS file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kosmos <kosmos.ehp@gmail.com> (http://kosmos.org.ua)",
+  "license": "MIT",
+  "dependencies": {
+    "postcss": "^5.1.2"
+  }
+}
